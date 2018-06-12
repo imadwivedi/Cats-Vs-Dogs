@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/aniketdwivedi/Downloads/Models/Tflearn Model/cats_Dog_tflearn.model"
+all_model_checkpoint_paths: "/Users/aniketdwivedi/Downloads/Models/Tflearn Model/cats_Dog_tflearn.model"
