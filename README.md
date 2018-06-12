@@ -10,7 +10,11 @@ Training data contains 25000 Images and testing data contains 12500 Images.
 
 # Requirements
 1- Python 2.7
+
 2- Tensorflow
+
 3- OpenCV
+
 4- Keras
+
 5- Numpy
